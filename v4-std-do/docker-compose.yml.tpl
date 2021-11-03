@@ -15,7 +15,7 @@ services:
       - mautic-net
 
   mautic:
-    image: mautic/mautic:latest
+    image: mautic/mautic:v4
     container_name: mautic
     links:
       - mauticdb:mysql
