@@ -1,4 +1,0 @@
-name: mautic-latest-docker
-description: Deploy standard latest docker image of Mautic on a Digital Ocean droplet
-categories:
-- Marketing
