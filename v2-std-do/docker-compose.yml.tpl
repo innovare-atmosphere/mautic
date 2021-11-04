@@ -29,7 +29,7 @@ services:
     networks:
       - mauticnet
     ports:
-      - "8880:80"
+      - "8080:80"
 
 volumes:
   mysql_data:
