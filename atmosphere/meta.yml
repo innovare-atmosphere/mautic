@@ -1,0 +1,4 @@
+name: mautic-v2-docker
+description: Deploy standard v2 docker image of Mautic on a Digital Ocean droplet
+categories:
+- Marketing
